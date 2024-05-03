@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "favoriteEmoji": "😎",
+    "height": 1.76,
+    "active": true,
+    "about": "A\n\"multiline\"\n\tstring\n \uD83D\uDE07",
+    "money": 1.4E6,
+    "last": null
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "favoriteEmoji": "🤓",
+    "height": 1.65,
+    "active": false,
+    "about": "Another\n\"multiline\"\n\tstring\n \uD83D\uDE0E",
+    "money": 1.2E6
+  }
+]
